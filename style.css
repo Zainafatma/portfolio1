@@ -1,0 +1,66 @@
+body{
+    background: rgb(236,120,10);
+background: linear-gradient(90deg, rgba(236,120,10,1) 31%, rgba(255,255,255,1) 51%, rgba(13,196,28,1) 87%);
+text-align: center;
+color: black;
+}
+.menu{
+    background-color:#e9dfdf;
+    list-style:none;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    top: 10px;
+    right:30px;
+    color: black;
+    
+}
+.links{
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:'Arimo', sans-serif;
+    font-size: 20px;
+    float: right;
+    }
+    #links:hover{
+background-color: black;
+color: azure;
+font-size: large;
+font-family:Verdana;
+    }
+.flag{
+    width: 450px;
+    height: 200px;
+    border-width: 10px;
+    border-style: ridge;
+}
+.emblem{
+    width: 350px;
+    height: 300px;
+    border-width: 10px;
+    border-style: ridge;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-width: 10px;
+    border-style: ridge;  
+}
+p{
+    font-size: medium;
+    font-family: Cochin;
+}
+h1{
+  font-size: 35px;  
+  font-weight: 300;
+  font-family: Impact;
+  font-variant:small-caps ;
+}
+hr{
+    color: blue;
+}
+
+
+
